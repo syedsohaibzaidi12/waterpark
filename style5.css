@@ -1,0 +1,177 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#background{
+width: 100%;
+height: 1000px;
+background-color: #05013B;
+
+
+}
+#main{
+	height: 120px;
+	background-size: cover;
+	background-position: center;
+
+	width:1200px;
+	margin-left: 85px;
+	float: left;
+	background-image: url(contact/head.jpg);
+	}
+
+#logo{
+	float: left;
+	height: 160px;
+	width: 310px;
+	margin-left: px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	margin-bottom: 10px;
+	}
+#img{
+	height: 140px;
+	width: 310px;
+}
+ul{
+	list-style: none;
+	float: right;
+	margin-top: 50px;
+}
+
+ul li{
+	display: inline-block;
+
+}
+
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 6px 20px;
+	transition: ;
+	font-family: "Monaco", monospace;	
+
+}
+
+#div2{
+	margin-left: px;
+	float: left;
+	width: 800px;
+	height: 600px;
+	margin-left: 85px;
+	background-color: #F1F1F1;
+	border-right: 2px solid white;
+
+ }
+ #div3{
+ 	float: left;
+ 	height: 600px;
+ 	width: 398px;
+    background-color: #F1F1F1;
+
+
+ }
+ #head{
+ 	margin-top: 40px;
+ 	margin-left: 30px;
+ 	font-size: 45px;
+ }
+ #Content {
+	background:#fff;
+	padding: 10px;
+	border-radius: 3px;
+	display: ;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 700px;
+	height: 30px;
+
+}
+#Content input{
+	flex: 1;
+	border: none;
+	outline: none;
+	padding: 0 20px;
+	font-size: 18;
+
+
+}
+#icons{
+
+	float: left;
+	height: 30px;
+	width: 30px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#info{
+
+	float: left;
+	height: 350px;
+	width: 300px;
+	margin-left:75px;
+	margin-top: 60px;
+
+}
+#cont{
+	font-size: 35px;
+
+}
+
+#para{
+	font-size: 20px;
+}
+#icon_img{
+	height: 30px;
+	width: 30px;
+}
+
+#Location{
+float: left;
+
+height: 80px;
+width: 150px;
+margin-top: 30px;
+margin-left: 0px;
+}
+#footer{
+	float: left;
+	margin-left: 85px;
+	margin-top: 18px;
+ 	height: 240px;
+ 	width: 1197px;
+    background-color: #A6CCF0;
+
+
+}
+.f1{
+	height: 190px;
+	width: 330px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 18px;
+	border: 0px solid black;
+	text-align: center;
+}
+#img1{
+    height: 130px;
+    width: 330px;
+    padding-top: 5px;
+    display: block;
+}
+.f2{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 70px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	padding-left: 3px;
+	
+}
+#imgf1{
+	height: 40px;
+	width: 40px;
+}

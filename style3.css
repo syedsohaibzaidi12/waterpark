@@ -1,0 +1,151 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#background{
+width: 100%;
+height: 1500px;
+background-color: #05013B;
+
+
+}
+#main{
+	height: 120px;
+	background-size: cover;
+	background-position: center;
+
+	width:1200px;
+	margin-left: 85px;
+	float: left;
+	background-image: url(rides/head.jpg);
+	}
+
+#logo{
+	float: left;
+	height: 160px;
+	width: 310px;
+	margin-left: px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	margin-bottom: 10px;
+	}
+#img{
+	height: 140px;
+	width: 310px;
+}
+ul{
+	list-style: none;
+	float: right;
+	margin-top: 50px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 6px 20px;
+	transition: ;
+	font-family: "Monaco", monospace;
+
+}
+
+#outer{
+	
+	margin-left: px;
+	float: left;
+	width: 800px;
+	height: 1100px;
+	margin-left: 85px;
+	background-color: white;
+	border-right: 2px solid white;
+
+}
+#head{
+ 	margin-top: 40px;
+ 	margin-left: 50px;
+ 	font-size: 55px;
+ 	font-family:  "Courier New", monospace;
+
+
+ }
+ #subHead{
+ 	margin-top: 50px;
+ 	margin-left: 50px;
+ 	font-size: 20px;
+
+ }
+.inner{
+	
+	height: 160px;
+	width: 320px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+#imgs{
+	height: 160px;
+	width: 320px;
+}
+#div2{
+ 	
+ 	float: left;
+ 	height: 1100px;
+ 	width: 398px;
+background-color: white;
+}
+
+#subdiv{
+	
+	
+	height: 1000px;
+	width: 320px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 25px;
+}
+
+#footer{
+	float: left;
+	margin-left: 85px;
+	margin-top: 18px;
+ 	height: 240px;
+ 	width: 1197px;
+    background-color: #A6CCF0;
+
+
+}
+.f1{
+	height: 190px;
+	width: 330px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 18px;
+	border: 0px solid black;
+	text-align: center;
+}
+#img1{
+    height: 130px;
+    width: 330px;
+    padding-top: 5px;
+    display: block;
+}
+.f2{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 70px;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	padding-left: 3px;
+	
+}
+#imgf1{
+	height: 40px;
+	width: 40px;
+}
